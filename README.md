@@ -7,4 +7,4 @@
 
 - 📫 Contact me **contact@caz-dev.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cazdev&show_icons=true&locale=en&theme=react" alt="cazdev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cazdev&show_icons=true&locale=en&bg_color=5894CB&title_color=58A4EA&hide_border=true&text_color=C9D1D9&icon_color=5F8BD5" alt="cazdev" /></p>
