@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazdev&label=Profile%20views&color=0e75b6&style=flat" alt="cazdev" /> </p>
 
-- 👨‍💻 All of my projects are available at **[github.com/cazdev](https://GitHub.com/cazdev)**
+- 💻 Check out my personal website **[caz-dev.com](https://caz-dev.com)**
 
 - 📫 Contact me **contact@caz-dev.com**
 
