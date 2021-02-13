@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cazdev" alt="cazdev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/cazdev](https://GitHub.com/cazdev)
+- 👨‍💻 All of my projects are available at **[github.com/cazdev](https://GitHub.com/cazdev)**
 
 - 📫 Contact me **contact@caz-dev.com**
 
