@@ -8,5 +8,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cazdev&show_icons=true&locale=en&layout=compact&theme=nord" alt="cazdev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cazdev&show_icons=true&locale=en&theme=nord" alt="cazdev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cazdev&theme=nord" alt="cazdev" /></p>
