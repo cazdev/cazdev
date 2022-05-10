@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaz</h1>
-<h3 align="center">Software Engineer @ <a href="https://plannthat.com.au">plannthat.com.au<a></h3>
+<h3 align="center">Software Engineer @ <a href="https://plannthat.com">plannthat.com<a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazdev&label=Profile%20views&color=0e75b6&style=flat" alt="cazdev" /> </p>
 
