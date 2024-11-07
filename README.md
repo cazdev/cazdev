@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chaz</h1>
-<h3 align="center">Software Engineer @ <a target='_blank' href="https://www.service.nsw.gov.au">Service NSW<a></h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazdev&label=Profile%20views&color=0e75b6&style=flat" alt="cazdev" /> </p>
 
